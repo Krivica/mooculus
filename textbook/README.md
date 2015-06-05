@@ -74,9 +74,9 @@ Each lecture will have a
      - Derivatives of $e^x$ and $\sin(x)$ with proof
      - Derivative of $\ln(x)$ but proof later
      - Some Rates of Change Word Problems
-* [The product and quotient rules](productAndQuotientRules/)
+* [The Product and Quotient Rules](productAndQuotientRules/)
      - Some rates of change word problems
-* [The chain rule](chainRule/)
+* [The Chain Rule](chainRule/)
      - Review composition of functions
      - Some rates of change word problems
 * [Mean Value Theorem](meanValueTheorem/)
